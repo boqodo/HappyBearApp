@@ -41,11 +41,15 @@ If you still have questions, you can contact the developer in the following ways
 ![首页](./imgs/首页.jpeg)
 
 2、语音对话练习 / Voice Chat
+
 ![聊天对话](./imgs/聊天对话.jpeg)
+
 ![单词记录](./imgs/单词记录.jpeg)
 
 3、单词卡片记录 / Word Card
+
 ![单词列表](./imgs/单词列表.jpeg)
+
 ![单词卡片](./imgs/单词卡片.jpeg)
 
 4、对话归档重放 / Chat Replay
